@@ -1,3 +1,7 @@
+## Opini Pribadi
+
+sepertinya tergantung kebutuhan, masing masing ada plus minusnya. pakai ssr terlihat lebih rapih daripada pakai csr. pada csr biasa menggunakan hooks kaya useEffect dan useState. namun setelah baca documentation, disarankan menggunakan library yang namanya swr. jadi gaperlu pakai useEffect dan useState, jadi lebih pendek dan tinggal render aja datanya. kayanya saya lebih prefer pake scr yang pake swr.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
